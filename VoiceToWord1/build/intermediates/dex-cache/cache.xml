@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Android_SDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\VoiceToWord1.2\VoiceToWord1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_1f7c19f7ce6a0e944dd0e90e5c6c5d57084505a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\VoiceToWord1.2\VoiceToWord1\app\src\main\jniLibs\hellocharts-library-1.5.8 (1).jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="700944cb3a8ce4fe543cfac1a9146a11cbf702dc">
+        <dex dex="E:\VoiceToWord1.2\VoiceToWord1\app\build\intermediates\pre-dexed\debug\hellocharts-library-1.5.8 (1)_3de9494e9b6557b7253529f20c08fde6727d65b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\VoiceToWord1.2\VoiceToWord1\app\src\main\jniLibs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3b20dc871d179ba476082efe543dc1b38db46e30">
+        <dex dex="E:\VoiceToWord1.2\VoiceToWord1\app\build\intermediates\pre-dexed\debug\android-support-v4_62c9e05f94273eb62625887de0db1c66caccdbbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\VoiceToWord1.2\VoiceToWord1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cd49a5c42d9fd130e8f0406177e4d2ef5c529a41">
+        <dex dex="E:\VoiceToWord1.2\VoiceToWord1\app\build\intermediates\pre-dexed\debug\instant-run_2ca37640aec5a8d6546f898040d545dd4fb7b1b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\VoiceToWord1.2\VoiceToWord1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ce077b77b195cf60326335502e34c1b3a38f91f1">
+        <dex dex="E:\VoiceToWord1.2\VoiceToWord1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_59506aaabb2ae4bee19f74d1bb3f5de10c533361.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\VoiceToWord1.2\VoiceToWord1\app\libs\Msc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="612ce0b45e5d70383d8548bcfe6c8c5b1271617d">
+        <dex dex="E:\VoiceToWord1.2\VoiceToWord1\app\build\intermediates\pre-dexed\debug\Msc_c65fc21147ae8e7685182677bae6966a4795ba1a.jar" />
+    </item>
+
+</items>
